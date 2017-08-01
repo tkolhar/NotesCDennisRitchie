@@ -2,7 +2,7 @@
 //
 
 #include "stdafx.h"
-#define CHARACTER '=>'
+#define CHARACTER '->'
 
 int main(void)
 {
